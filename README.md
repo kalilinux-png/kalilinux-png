@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋<br><br>I am Shubham Yadav 👦<br><br>I am a passionate Python Developer 👨‍💻<br><br>Coding To Make Humans Better 
+Hi 👋<br><br>I am Shubham Yadav 👦<br><br>I am a passionate Python Developer 👨‍💻<br><br>Coding To Make Humans Life Better 
 
 
 ## 🌐 Socials:
