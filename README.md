@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋<br><br>I am Shubham Yadav 👦<br><br>🌟 Passionate about technology, innovation, and building the future, one line of code at a time.<br><br>Coding To Make Humans Life Better 
+Hi 👋<br><br>I am Shubham Yadav 👦, let's make human multi-planetary <br><br>🌟 Passionate about technology, innovation, and building the future, one line of code at a time.<br><br>Coding To Make Humans Life Better 
 Passionate about technology, innovation, and building the future, one line of code at a time.
 
 🌟 **Highlights:**
