@@ -13,7 +13,7 @@ Transforming ideas into reality, pushing the boundaries of what's possible, and 
 
 🔗 **Let's Connect:**
 - 🌐 [Website/Blog](https://shubhyadav.tech)
-- 📫 [LinkedIn](https://www.linkedin.com/in/shubhsinghyadav/)
+
 - 📧 Email: [kalilinuxuser5@gmail.com]
 
 🔗 Let's build the future together! Connect with me, and let's innovate! 🔗
