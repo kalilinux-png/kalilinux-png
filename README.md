@@ -3,7 +3,6 @@ Hi 👋<br><br>I am Shubham Yadav 👦, let's make human multi-planetary <br><br
 Passionate about technology, innovation, and building the future, one line of code at a time.
 
 🌟 **Highlights:**
-- 💼 Chief Technology Officer (CTO)
 - 🚀 Leading innovative tech solutions
 - 🌐 Tech trend explorer
 - 📚 Lifelong learner and knowledge advocate
